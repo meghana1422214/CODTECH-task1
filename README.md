@@ -14,7 +14,7 @@ The objective of this project is to craft a user-friendly  to-do List web app us
 
 ## Key Activities
 1. index.html
-## File Overview
+   File Overview
 - **Filename**: index.html
 - **Purpose**: Provides the structure and layout for the To-Do List application interface.
 - **Dependencies**: 
@@ -22,18 +22,18 @@ The objective of this project is to craft a user-friendly  to-do List web app us
   - **script.js**: Implements the functionality to add tasks and manage the To-Do List.
 
 2. script.js
-## Introduction
+   Introduction
 This JavaScript file (`script.js`) provides the interactive functionality for a To-Do List web application. It handles the addition of new tasks and allows users to delete tasks dynamically.
 
-## File Overview
+  File Overview
 - **Filename**: script.js
 - **Purpose**: Implements the client-side scripting logic for adding and deleting tasks in the To-Do List interface.
 
 3. styles.css
-- ## Introduction
+-  Introduction
 This CSS file (`styles.css`) provides the styling for a To-Do List web application. It defines the visual appearance and layout of the user interface elements, enhancing usability and aesthetic appeal.
 
-## File Overview
+ File Overview
 - **Filename**: styles.css
 - **Purpose**: Defines the styles for HTML elements in the To-Do List application interface.
 
